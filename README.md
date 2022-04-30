@@ -1,2 +1,4 @@
 # twitter-sentiment-analysis
-Sentiments Analysis of User-Generated Tweets during Black Friday Promotions
+Sentiments Analysis of User-Generated Tweets during 2021 Black Friday Promotions
+
+This project delivers an interactive platform that examines customer sentiments through tweets with regards to black friday sales. The Naive Bayes Classifier was employed as the text classifier of choice and deployed on streamlit using python. The webapp interface allows key stakeholders to get real time visualizations of customer sentiments based on Black Friday tweets from a particular date relating to a particular keyword. Based on the visualizations obtained, one is able to make strategic decisions to improve customer experiences with regard to black friday and boost sales by extension. For best results with the visualizations, specifying a higher number of tweets (~>100) in the ‘enter number of tweets you want to query’ field is recommended as this gives more robust/extensive results. To take this study even further testing out more classifiers and looking into areas such as sentiment analysis by topic would be the next steps.
