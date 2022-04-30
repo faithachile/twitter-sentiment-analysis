@@ -1,0 +1,7 @@
+This project faces several constraints and opportunities. There are not so many well-known or 
+readily available datasets to help study the accommodation phenomenon to arrive at the goal 
+described above. To complete the project in full, we need to obtained data about accommodation in 
+Ghana. One option is to look online for services that provide information that can be collected into a 
+database. Since several e-commerce sites provide listings for various kinds of accommodation across 
+the country, I considered scraping the web and building a suitable dataset for the analysis. The 
+dataset was obtained from https://www.meqasa.com. 
